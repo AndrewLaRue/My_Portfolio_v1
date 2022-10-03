@@ -45,6 +45,17 @@
     font-weight: 600;
 }
 
+.glass-contact-card {
+    background: rgba(0, 0, 0, 0.75);
+    backdrop-filter: blur(1px);
+    border: solid #8d8b8b1f;
+    /* border-radius: 8px; */
+    padding: 0;
+    text-shadow: 1px 1px 3px black;
+    font-weight: 600;
+    /* margin: 0; */
+}
+
 .img-text {
     color: whitesmoke !important;
     text-shadow: 1px 1px 3px black !important;
